@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Music Advisor/task" />
+            <option value="$PROJECT_DIR$/Problems/Breakfast Decorator" />
+            <option value="$PROJECT_DIR$/Problems/Calculator" />
+            <option value="$PROJECT_DIR$/Problems/Coffee Decorator" />
+            <option value="$PROJECT_DIR$/Problems/Complete a class" />
+            <option value="$PROJECT_DIR$/Problems/Complete the eager singleton" />
+            <option value="$PROJECT_DIR$/Problems/Create instance" />
+            <option value="$PROJECT_DIR$/Problems/Declared fields" />
+            <option value="$PROJECT_DIR$/Problems/Field count" />
+            <option value="$PROJECT_DIR$/Problems/Find the Method" />
+            <option value="$PROJECT_DIR$/Problems/Getting the type of comparator" />
+            <option value="$PROJECT_DIR$/Problems/How many type variables defined" />
+            <option value="$PROJECT_DIR$/Problems/Managing a process" />
+            <option value="$PROJECT_DIR$/Problems/Pizza Decorator" />
+            <option value="$PROJECT_DIR$/Problems/Retrieve class name" />
+            <option value="$PROJECT_DIR$/Problems/What is an upper bound" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
